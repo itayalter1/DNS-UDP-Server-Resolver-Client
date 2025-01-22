@@ -20,6 +20,12 @@ Simple DNS-like service implementation with domain name to IP resolution, simila
 
 ## 🚀 How to Run
 
+### Clone Poject
+```bash
+git clone https://github.com/itayalter1/DNS-UDP-Server-Resolver-Client.git
+cd DNS-Resolver-and-Server
+```
+
 ### 1. Primary Server
 ```bash
 python server.py [port] [zoneFile]
