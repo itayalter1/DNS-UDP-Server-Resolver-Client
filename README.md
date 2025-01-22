@@ -23,6 +23,8 @@ Simple DNS-like service implementation with domain name to IP resolution, simila
 ### Clone Poject
 ```bash
 git clone https://github.com/itayalter1/DNS-UDP-Server-Resolver-Client.git
+```
+```bash
 cd DNS-Resolver-and-Server
 ```
 
